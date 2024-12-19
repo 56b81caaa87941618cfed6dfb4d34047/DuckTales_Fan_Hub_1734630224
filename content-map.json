@@ -1,0 +1,67 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ],
+        "CTA": [
+            "CTA_HEADING_TEXT",
+            "CTA_SUBHEADING_TEXT",
+            "CTA_BUTTON_TEXT"
+        ],
+        "Newsletter": [
+            "NEWSLETTER_HEADING_TEXT",
+            "NEWSLETTER_SUBHEADING_TEXT",
+            "NEWSLETTER_BUTTON_TEXT"
+        ],
+        "About": [
+            "ABOUT_MISSION_STATMENT",
+            "ABOUT_VISION_STATEMENT",
+            "ABOUT_VALUES_STATEMENT"
+        ],
+        "Contact": [
+            "CONTACT_HEADER_TEXT",
+            "CONTACT_SUBHEADER_TEXT"
+        ],
+        "FAQ": [
+            "FAQ_QUESTION_01_TEXT",
+            "FAQ_ANSWER_01_TEXT",
+            "FAQ_QUESTION_02_TEXT",
+            "FAQ_ANSWER_02_TEXT",
+            "FAQ_QUESTION_03_TEXT",
+            "FAQ_ANSWER_03_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "DuckTales Adventure",
+        "HERO_HEADING_TEXT": "Dive into Adventure with DuckTales!",
+        "HERO_SUBHEADING_TEXT": "Join Scrooge McDuck and his nephews on thrilling quests and treasure hunts!",
+        "FOOTER_TEXT": "\u00a9 2023 DuckTales Adventure. All rights reserved. Woo-oo!",
+        "CTA_HEADING_TEXT": "Ready for a Quack-tastic Journey?",
+        "CTA_SUBHEADING_TEXT": "Sign up now and start your own DuckTales adventure!",
+        "CTA_BUTTON_TEXT": "Let's Get Quacking!",
+        "NEWSLETTER_HEADING_TEXT": "Stay in the Duck-Loop!",
+        "NEWSLETTER_SUBHEADING_TEXT": "Subscribe for exclusive DuckTales news, updates, and special offers!",
+        "NEWSLETTER_BUTTON_TEXT": "Join the Flock",
+        "ABOUT_MISSION_STATMENT": "To bring the joy and excitement of DuckTales to fans old and new through immersive digital experiences.",
+        "ABOUT_VISION_STATEMENT": "To create a world where everyone can experience the thrill of adventure and the warmth of family like the DuckTales gang.",
+        "ABOUT_VALUES_STATEMENT": "Family, Adventure, Curiosity, and a Splash of Mischief!",
+        "CONTACT_HEADER_TEXT": "Got a Mystery to Solve?",
+        "CONTACT_SUBHEADER_TEXT": "Reach out to us! We're always ready for a new adventure!",
+        "FAQ_QUESTION_01_TEXT": "Who are the main characters in DuckTales?",
+        "FAQ_ANSWER_01_TEXT": "The main characters include Scrooge McDuck, Huey, Dewey, Louie, Webby, and Launchpad McQuack, among others!",
+        "FAQ_QUESTION_02_TEXT": "Is this based on the original series or the reboot?",
+        "FAQ_ANSWER_02_TEXT": "Our adventure draws inspiration from both the classic series and the modern reboot, offering a perfect blend of nostalgia and fresh excitement!",
+        "FAQ_QUESTION_03_TEXT": "Do I need to know DuckTales to enjoy this adventure?",
+        "FAQ_ANSWER_03_TEXT": "Not at all! While fans will appreciate the references, our adventure is designed for everyone to jump in and have a quack-tastic time!"
+    }
+}
